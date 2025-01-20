@@ -69,14 +69,6 @@ This repository contains a detailed data analysis project that performs data cle
 
 ---
 
-### Files and Structure
-
-- **`data_cleaning.py`**: Contains the data cleaning and preprocessing steps.
-- **`analysis.py`**: Includes all the analysis performed on the dataset, including room type comparisons, market segment analysis, guest arrival patterns, and more.
-- **`visualizations.py`**: Code to generate all the charts and interactive plots.
-- **`data/`**: Contains the raw and cleaned data files used for analysis.
-- **`requirements.txt`**: Lists the dependencies required to run the project, including `pandas`, `numpy`, `seaborn`, `matplotlib`, `plotly`, etc.
-
 
 ### Conclusion
 
