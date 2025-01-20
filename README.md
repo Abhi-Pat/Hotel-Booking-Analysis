@@ -1,4 +1,4 @@
-# Data Analysis Project
+# Hotel-Booking-Analysis
 
 This repository contains a detailed data analysis project that performs data cleaning, analysis, and visualization on a dataset. The project leverages various Python libraries like **Pandas**, **NumPy**, **Seaborn**, **Matplotlib**, and **Plotly** to explore and analyze the dataset. The key analyses involve spatial and descriptive statistics, as well as visualizations to present key findings.
 
